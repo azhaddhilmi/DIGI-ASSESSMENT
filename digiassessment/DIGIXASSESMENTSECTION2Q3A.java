@@ -28,11 +28,6 @@ public class DIGIXASSESMENTSECTION2Q3A {
         // returned string is a palindrome 
         return true; 
     } 
-  
-    
-    
-    
-    
     
     /**
      * @param args the command line arguments
