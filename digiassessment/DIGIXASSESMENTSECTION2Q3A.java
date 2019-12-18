@@ -12,14 +12,11 @@ package digixassesmentsection2q3.a;
 public class DIGIXASSESMENTSECTION2Q3A {
 // returns true if string is a palindrome 
     static boolean isPalindrome(String string) 
-    { 
-  
-        
+    {
         int i = 0, j = string.length() - 1; 
   
         while (i < j) { 
   
-            
             if (string.charAt(i) != string.charAt(j)) 
                 return false; 
   
